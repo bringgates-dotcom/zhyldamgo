@@ -1,0 +1,10 @@
+{
+  "name": "zhyldamgo-netlify",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Чат zhyldamGO: клиент ⇄ Telegram-бот (поддержка и курьеры) на Netlify",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  },
+  "engines": { "node": ">=18" }
+}
